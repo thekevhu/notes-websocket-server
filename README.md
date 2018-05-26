@@ -1,9 +1,8 @@
-# starter express app template
-
-* node with babel
-* expressjs
-* airbnb eslint rules
-
-Procfile set up to run on [heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#deploy-the-app)
+## Notes-Websocket-Server
 
 
+This is a websocket based server to refactor notes app. 
+
+
+The assignment is found at
+	`http://cs52.me/assignments/sa/websockets/`
